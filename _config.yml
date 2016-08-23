@@ -22,6 +22,10 @@ url: "http://delandbeforeti.me" # the base hostname & protocol for your site
 twitter_username: delandb4time
 github_username:  kevindeland
 
+collections:
+  projects:
+    output: true
+
 # Build settings
 markdown: kramdown
 theme: minima

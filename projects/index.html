@@ -1,0 +1,15 @@
+---
+layout: page
+title: Projects
+---
+<ul class="post-list">
+    {% for project in site.projects %}
+    <li>
+        <span class="post-meta">{{ project.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+            <a class="post-link" href="{{ project.url | prepend: site.baseurl }}">{{ project.title | escape }}</a>
+        </h2>
+    </li>
+    {% endfor %}
+</ul>
