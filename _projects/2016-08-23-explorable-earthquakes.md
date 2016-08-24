@@ -5,6 +5,8 @@ date: 2015-12-10 12:00:00 -0400
 categories: tangle education analogy earth-science
 ---
 
+![]({{ site.baseurl }}/assets/earthquake_plot.png)
+
 Click [here]({{ site.baseurl }}/ExplorableEarthquakes ) to see the working demo.
 Based on the example [here](http://worrydream.com/ExplorableExplanations)
 
