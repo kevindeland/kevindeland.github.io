@@ -4,33 +4,46 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+    
+    <div class="home-col-wrapper">
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <div class="home-col home-col-1">
+            <h1>THIS IS ME NOW</h1>
+            <img src="{{ site.baseurl }}/assets/bowtie.png">
+        </div>
+        <div class="home-col home-col-2">
+        </div>
+        <div class="home-col home-col-3">
+            <h1 class="page-heading">Posts</h1>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+            <ul class="post-list">
+                {% for post in site.posts %}
+                <li>
+                    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-  <h1 class="page-heading">Projects</h1>
-  <ul class="post-list">
-      {% for project in site.projects %}
-      <li>
-          <span class="post-meta">{{ project.date | date: "%b %-d, %Y" }}</span>
+                    <h2>
+                        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
+                    </h2> {{ post.description | escape }}
 
-          <h2>
-              <a class="post-link" href="{{ project.url | prepend: site.baseurl }}">{{ project.title | escape }}</a>
-          </h2>
-      </li>
-      {% endfor %}
-  </ul>
+                </li>
+                {% endfor %}
+            </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+            <h1 class="page-heading">Projects</h1>
+            <ul class="post-list">
+                {% for project in site.projects %}
+                <li>
+                    <span class="post-meta">{{ project.date | date: "%b %-d, %Y" }}</span>
+
+                    <h2>
+                        <a class="post-link" href="{{ project.url | prepend: site.baseurl }}">{{ project.title | escape }}</a>
+                    </h2>
+                </li>
+                {% endfor %}
+            </ul>
+
+            <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+        </div>
+    </div>
 
 </div>

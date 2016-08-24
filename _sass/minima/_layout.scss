@@ -92,7 +92,27 @@
     }
 }
 
+/**
+ * home columns
+ */
+.home-col {
+    float: left;
+    margin-bottom: $spacing-unit / 2;
+    padding-left: $spacing-unit / 2;
+}
 
+.home-col-1 {
+    width: -webkit-calc(40% - (#{$spacing-unit}/2));
+    width:         calc(40% - (#{$spacing-unit}/2));
+}
+.home-col-2 {
+    width: -webkit-calc(10% - (#{$spacing-unit}/2));
+    width:         calc(10% - (#{$spacing-unit}/2));
+}
+.home-col-3 {
+    width: -webkit-calc(50% - (#{$spacing-unit}/2));
+    width:         calc(50% - (#{$spacing-unit}/2));
+}
 
 /**
  * Site footer

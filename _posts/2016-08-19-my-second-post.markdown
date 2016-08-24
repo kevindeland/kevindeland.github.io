@@ -2,6 +2,8 @@
 layout: post
 title:  "This is my second post!"
 date:   2016-08-19 18:11:11 -0400
+description: "This is a description of a post"
+
 categories: jekyll update
 ---
 Hey, this is my second post.
