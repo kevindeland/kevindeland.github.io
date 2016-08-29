@@ -6,3 +6,4 @@ categories: images experiment
 ---
 Hello, here is an image:
 ![ayy]({{ site.url }}/assets/screenshot.png)
+I am updating this from my new macbook!
