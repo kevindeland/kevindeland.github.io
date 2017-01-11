@@ -2,6 +2,7 @@
 layout: project
 title: "Explorable Earthquakes"
 date: 2015-12-10 12:00:00 -0400
+description: "An interactive web tool for teaching earthquakes."
 categories: tangle education analogy earth-science
 ---
 
