@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Educational Room Escape"
-date: 2017-1-20 19:17:00 -0400
+date: 2017-03-06 19:17:00 -0400
 description: "A room escape with educational content"
 categories: education fun
 ---
