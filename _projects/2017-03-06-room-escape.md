@@ -6,7 +6,7 @@ description: "A room escape with educational content"
 categories: education fun
 ---
 
-If you've ever done a room escape before, you have been exposed to puzzles, pattern matching, cooperation, etc etc. I went to an SXSWedu event hosted by [Business Innovation Factory](http://www.businessinnovationfactory.com/) (which is a super cool group of people... they recently worked *with* high school students to help design *their own* high school). First  we did a room escape (or puzzle room) in Austin called [The Escape Game](http://theescapegameaustin.com/). Our group did the hardest room (Prison Break) and got out with 15 minutes left to go! We then debriefed and talked about the educational aspects of our experiment. 
+I have always wondered about the possibility of inserting educational content into an Escape Room. Today at SXSWedu, I went to an event hosted by [Business Innovation Factory](http://www.businessinnovationfactory.com/) (which is a super cool group of people... they recently worked *with* high school students to help design *their own* high school). First we did a room escape (or puzzle room) in Austin called [The Escape Game](http://theescapegameaustin.com/). Our group did the hardest room (Prison Break) and got out with 15 minutes left to go! We then debriefed and talked about the educational aspects of our experiment. 
 - content: what is the educational content you had to draw from to solve the room? Most rooms rely on knowledge that has a very common public denominator, like puzzles, chess pieces, playing cards, letters, colors, tic tac toe boards, mazes, etc. But what if we designed Escape Rooms with more educational content embedded within them?
 - teamwork: communicating and collaboring with teammates. Sharing information, etc.
 - metacognitve: knowing when to ask for help, when you're stuck on something, etc.
@@ -26,10 +26,10 @@ Below are some of the things I built:
 
 This puzzle tests the solver's knowledge of line equations. They must examine a cartesian plot of lines, and plug into equations numbers which are then used to open a lock. 
 
-Here's the cartesian plot I made. Each sticky note represents 1x1 unit. The lines are made with pipe colors (red, green, blue, yellow).
+Here's the cartesian plot I made, with the help of one my classmates. Each sticky note represents 1x1 unit. The lines are made with pipe colors (red, green, blue, yellow).
 ![]({{ site.baseurl }}/assets/sxsw/room/graph2.jpg)
 
-These are the clues the users had at their disposal. The color is a bit off here, but one formula is green, the other is blue. The green formula corresponds with the green line, and the blue corresponds with the blue (the red and yellow lines were red herrings!).
+These are the clues the users had at their disposal. As you can see,  one formula is green, and the other is blue. The green formula corresponds with the green line, and the blue corresponds with the blue (the red and yellow lines were red herrings!).
 ![]({{ site.baseurl }}/assets/sxsw/room/clues3.png)
 
 
