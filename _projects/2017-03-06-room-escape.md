@@ -13,16 +13,16 @@ I have always wondered about the possibility of inserting educational content in
 
 
 
-We then worked in groups to do some prototyping. My classmate and I really wanted to integrate educational content into the room escape, we brainstormed all sorts of crazy ideas, including:
+We then worked in groups to do some prototyping of our own Escape Rooms. My classmate and I really wanted to integrate educational content into the room escape, we brainstormed all sorts of crazy ideas, including:
 - Punnett Squares
 - Chemical Reactions
 - Line Graphs
 - Pendulums, Springs, and Pulleys
 
 
-Below are some of the things I built: 
 
-### Algebra and the Formula of a A Line
+Below are some of the things I built: 
+## Algebra and the Formula of a A Line
 
 This puzzle tests the solver's knowledge of line equations. They must examine a cartesian plot of lines, and plug into equations numbers which are then used to open a lock. 
 
@@ -39,14 +39,14 @@ To unlock this lock, they had to determine the slopes and y-intercepts of the li
 Here are some educators working to solve it! 
 ![]({{ site.baseurl }}/assets/sxsw/room/graph_solving2.jpg)
 
-#### Struggles and Misconceptions
+### Struggles and Misconceptions
 There were a few places where users struggled:
 - Not everyone made the immediate connection that the formula and the line matched via color. Some users tried to solve the lock using the red line instead of the blue. That is, my red herring was effective! 
 - Once the users got the 4 numbers, it was difficult for them to put the numbers in the correct order on the lock. I thought there would be only two possible orders they would consider, based on the way the clues were given (blue then green, or green then blue), but one group seemed to try every possible combination.
 - Understanding how the numbers fit into each equation. That is, understanding the denominator, or understanding how a negative number would work on the lock.
 
 
-### DNA Prototype
+## DNA Prototype
 Here's a prototype I made after the line graph. This one involves matching sequences of DNA. Theoretically, each 3-phosphate sequence (enough to make one protein! or... whatever that term is... I forget), would be associated with a letter. The users would have to sort through the 3-phosphate sequences in a big pile and match them to the loose DNA strand. Then the ordering of the letters would unlock a letter-combination lock.
 ![]({{ site.baseurl }}/assets/sxsw/room/dna3.jpg)
 
@@ -57,5 +57,5 @@ Here's what a solved sequence might look like (not shown: the corresponding lett
 ![]({{ site.baseurl }}/assets/sxsw/room/dna1.jpg)
 
 
-### Next Steps
+## Next Steps
 Overall, I think that Escape Rooms can be a fun way to incorporate lessons about communication and collaboration. However, I am hesitant about advising teachers to insert escape rooms into their classrooms in order to teach content. However, I think there is definitely a place for these, perhaps as a fun activity to do at the end of a unit that gives the students a chance to test their knowledge. Next, I might like to mimic the behavior of an Escape Room within a Cognitve Tutor, because I think immediate and directed feedback can be extremely beneficial to help puzzle-solvers through tasks that are longer, more complex, and more arduous... so that they know whether or not they are going down the right path. Overall a great experience and I'm looking forward to what happens next!
