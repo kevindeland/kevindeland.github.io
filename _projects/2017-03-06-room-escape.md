@@ -6,7 +6,7 @@ description: "A room escape with educational content"
 categories: education fun
 ---
 
-If you've ever done a room escape before, you have been exposed to puzzles, pattern matching, cooperation, etc etc. I went to an SXSWedu event hosted by __________. First we did a room escape (or puzzle room) in Austin called ________. Our group did the hardest room and got out with 15 minutes left to go! We then debriefed and talked about the educational aspects of our experiment. 
+If you've ever done a room escape before, you have been exposed to puzzles, pattern matching, cooperation, etc etc. I went to an SXSWedu event hosted by (Business Innovation Factory)[http://www.businessinnovationfactory.com/] (which is a super cool group of people... they recently worked *with* high school students to help design their own high school). First  we did a room escape (or puzzle room) in Austin called (The Escape Game)[http://theescapegameaustin.com/]. Our group did the hardest room (Prison Break) and got out with 15 minutes left to go! We then debriefed and talked about the educational aspects of our experiment. 
 - content: what is the educational content you had to draw from to solve the room? Most rooms rely on knowledge that has a very common public denominator, like puzzles, chess pieces, playing cards, letters, colors, tic tac toe boards, mazes, etc.
 - teamwork: communicating and collaboring with teammates. Sharing information, etc.
 - metacognitve: knowing when to ask for help, when you're stuck on something, etc.
@@ -17,16 +17,19 @@ We then worked in groups to do some prototyping. My classmate and I really wante
 - Line Graphs
 - Pendulums, Springs, and Pulleys
 
-Here are some of the things I built
+Here are some of the things I built: 
 
 ### Algebra and the Formula of a A Line
+
+This puzzle tests the solver's knowledge of line equations. They must examine a cartesian plot of lines, and plug into equations numbers which are then used to open a lock. 
 
 Here's the cartesian plot I made. Each sticky note represents 1x1 unit. The lines are made with pipe colors (red, green, blue, yellow).
 ![]({{ site.baseurl }}/assets/sxsw/room/graph2.jpg)
 
-These are the clues the users  had to solve it. The color is a bit off here, but one formula is green, the other is blue. The green formula corresponds with the green line, and the blue corresponds with the blue (the red and yellow lines were red herrings!).
+These are the clues the users had at their disposal. The color is a bit off here, but one formula is green, the other is blue. The green formula corresponds with the green line, and the blue corresponds with the blue (the red and yellow lines were red herrings!).
 ![]({{ site.baseurl }}/assets/sxsw/room/clues2.jpg)
-// TODO insert Keynote image
+![]({{ site.baseurl }}/assets/sxsw/room/formulas.png)
+
 
 To unlock this lock, they had to determine the slopes and y-intercepts of the lines, which then corresponded to the numbers on this lock. Opening the lock leads them to the next clue!
 ![]({{ site.baseurl }}/assets/sxsw/room/lock1.jpg)
