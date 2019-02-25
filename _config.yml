@@ -16,7 +16,8 @@
 title: Kevin DeLand
 email: kevin.deland@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  CMU Grad student who loves learning, creating, and stupid puns
+  The personal website of Kevin DeLand.
+  If you like me here, I'm even better in person.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://delandbeforeti.me" # the base hostname & protocol for your site
 twitter_username: delandb4time
@@ -25,6 +26,9 @@ github_username:  kevindeland
 collections:
   projects:
     output: true
+    permalink: /:slug
+
+permalink: /:title
 
 # Build settings
 markdown: kramdown

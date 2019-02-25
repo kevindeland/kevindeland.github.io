@@ -8,9 +8,9 @@ layout: default
     <div class="home-col-wrapper">
 
         <div class="home-col home-col-1">
-            <h1>THIS IS ME</h1>
-            <img src="{{ site.baseurl }}/assets/nice_face.jpg">
-            Hi everyone, my name is Kevin DeLand. I'm a software engineer turned learning scientist with a passion for learning and creating.
+          <h2>Welcome to DeLand... DeLand Before Time</h2>
+            <img src="{{ site.baseurl }}/assets/tiger.jpg">
+            Hey there, I'm Kevin. I'm a software engineer and edtech designer with a passion for learning and creating. Also check me out on <a href="https://medium.com/@kevin.deland">Medium.</a>
         </div>
         <div class="home-col home-col-2">
         </div>
@@ -22,7 +22,7 @@ layout: default
             </div>
 
             <ul class="post-list">
-                {% for project in site.projects %}
+                {% for project in site.projects reversed %}
                 <li>
                     <span class="post-meta">{{ project.date | date: "%b %-d, %Y" }}</span>
 
@@ -37,7 +37,7 @@ layout: default
             <h1 class="page-heading">Blog Posts</h1>
 
             <ul class="post-list">
-                {% for post in site.posts %}
+                {% for post in site.posts reversed %}
                 <li>
                     <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 

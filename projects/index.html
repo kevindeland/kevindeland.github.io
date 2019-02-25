@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 <ul class="post-list">
-    {% for project in site.projects %}
+    {% for project in site.projects reversed %}
     <li>
         <span class="post-meta">{{ project.date | date: "%b %-d, %Y" }}</span>
 
