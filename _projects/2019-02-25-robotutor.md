@@ -11,4 +11,6 @@ permalink: /robotutor/
 
 I have been working as the lead software engineer on this project since August 2017. It's been a hell of a ride. We recently [open-sourced our code](https://github.com/RoboTutorLLC/RoboTutor/).
 
-I am posting this onto my personal website to incentivize myself to improve RoboTutor's documentation. By putting this on my personal website, I am effectively integrating it into part of my digital identity. RoboTutor is a part of me. So if I want to make myself look good, I need to seriously improve the documentation.
+
+Here are some kids learning with RoboTutor!
+![]({{ site.baseurl }}/assets/RT_kids.jpg)
