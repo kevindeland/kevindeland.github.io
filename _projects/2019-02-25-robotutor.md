@@ -13,4 +13,4 @@ I have been working as the lead software engineer on this project since August 2
 
 
 Here are some kids learning with RoboTutor!
-![]({{ site.baseurl }}/assets/rt_kids.jpg)
+![]({{ site.baseurl }}/assets/rt_kids1.jpg)
