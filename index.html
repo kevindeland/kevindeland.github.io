@@ -29,6 +29,7 @@ layout: default
                     <h2>
                         <a class="post-link" href="{{ project.url | prepend: site.baseurl }}">{{ project.title | escape }}</a>
                     </h2> {{ project.description | escape }}
+                    <img src="assets/thumbs/{{ project.thumb }}" width="270" height="160"/>
                     <br><br>
                 </li>
                 {% endfor %}

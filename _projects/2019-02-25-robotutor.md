@@ -5,6 +5,7 @@ date: 2019-02-25 12:00:00 -0400
 description: "Teaching literacy and numeracy to kids in developing countries."
 categories: xprize education literacy numeracy
 permalink: /robotutor/
+thumb: rt_kids_thumb.jpeg
 ---
 
 [RoboTutor](https://www.cmu.edu/scs/robotutor/) is one of five $1M Finalists in the $15M [Global Learning XPRIZE](http://learning.xprize.org). This international competition seeks to address the acute shortage of teachers in developing countries.  The goal is to create an open-source Android tablet app that enables children ages 7-10 with little or no access to schools to learn basic reading, writing, and arithmetic without adult assistance.  We are continuing to field-test the Swahili version of RoboTutor in Tanzania, mine the data it logs, and improve it accordingly.

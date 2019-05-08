@@ -4,6 +4,7 @@ title: "Watson-Powered Slackbot"
 date: 2016-03-14 12:00:00 -0400
 description: "A forum patrolling slackbot enhanced by IBM Watson Tone Analyzer API."
 categories: Watson slack
+thumb: watson_bot_thumb.png
 ---
 
 1. Periodically scrapes messages from IBM Connections Forum.

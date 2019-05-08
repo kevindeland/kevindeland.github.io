@@ -4,6 +4,7 @@ title: "Explorable Earthquakes"
 date: 2015-12-10 12:00:00 -0400
 description: "An interactive web tool for teaching earthquakes."
 categories: tangle education analogy earth-science
+thumb: earthquake_thumb_1.png
 ---
 
 ![]({{ site.baseurl }}/assets/earthquake_plot.png)
@@ -15,5 +16,3 @@ I had a lot of fun building this for the Watson Cognitive Tutor, a project done 
 
 This was my first time making an interactive, reactive educational interface, so there are a few improvements I know I could make
 - better description at the beginning (although this was used in conjunction with a lesson plan, so the kids would have some background).
-
-

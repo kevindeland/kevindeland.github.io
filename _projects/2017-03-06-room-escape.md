@@ -4,9 +4,10 @@ title: "Educational Room Escape"
 date: 2017-03-06 19:17:00 -0400
 description: "A room escape with educational content"
 categories: education fun
+thumb: escape_thumb.png
 ---
 
-I have always wondered about the possibility of inserting educational content into an Escape Room. Today at SXSWedu, I went to an event hosted by [Business Innovation Factory](http://www.businessinnovationfactory.com/) (which is a super cool group of people... they recently worked *with* high school students to help design *their own* high school). First we did a room escape (or puzzle room) in Austin called [The Escape Game](http://theescapegameaustin.com/). Our group did the hardest room (Prison Break) and got out with 15 minutes left to go! We then debriefed and talked about the educational aspects of our experiment. 
+I have always wondered about the possibility of inserting educational content into an Escape Room. Today at SXSWedu, I went to an event hosted by [Business Innovation Factory](http://www.businessinnovationfactory.com/) (which is a super cool group of people... they recently worked *with* high school students to help design *their own* high school). First we did a room escape (or puzzle room) in Austin called [The Escape Game](http://theescapegameaustin.com/). Our group did the hardest room (Prison Break) and got out with 15 minutes left to go! We then debriefed and talked about the educational aspects of our experiment.
 - content: what is the educational content you had to draw from to solve the room? Most rooms rely on knowledge that has a very common public denominator, like puzzles, chess pieces, playing cards, letters, colors, tic tac toe boards, mazes, etc. But what if we designed Escape Rooms with more educational content embedded within them?
 - teamwork: communicating and collaboring with teammates. Sharing information, etc.
 - metacognitve: knowing when to ask for help, when you're stuck on something, etc.
@@ -21,10 +22,10 @@ We then worked in groups to do some prototyping of our own Escape Rooms. My clas
 
 
 
-Below are some of the things I built: 
+Below are some of the things I built:
 ## Algebra and the Formula of a A Line
 
-This puzzle tests the solver's knowledge of line equations. They must examine a cartesian plot of lines, and plug into equations numbers which are then used to open a lock. 
+This puzzle tests the solver's knowledge of line equations. They must examine a cartesian plot of lines, and plug into equations numbers which are then used to open a lock.
 
 Here's the cartesian plot I made, with the help of one my classmates. Each sticky note represents 1x1 unit. The lines are made with pipe colors (red, green, blue, yellow).
 ![]({{ site.baseurl }}/assets/sxsw/room/graph2.jpg)
@@ -36,12 +37,12 @@ These are the clues the users had at their disposal. As you can see,  one formul
 To unlock this lock, they had to determine the slopes and y-intercepts of the lines, which then corresponded to the numbers on this lock. Opening the lock leads them to the next clue!
 ![]({{ site.baseurl }}/assets/sxsw/room/lock1.jpg)
 
-Here are some educators working to solve it! 
+Here are some educators working to solve it!
 ![]({{ site.baseurl }}/assets/sxsw/room/graph_solving2.jpg)
 
 ### Struggles and Misconceptions
 There were a few places where users struggled:
-- Not everyone made the immediate connection that the formula and the line matched via color. Some users tried to solve the lock using the red line instead of the blue. That is, my red herring was effective! 
+- Not everyone made the immediate connection that the formula and the line matched via color. Some users tried to solve the lock using the red line instead of the blue. That is, my red herring was effective!
 - Once the users got the 4 numbers, it was difficult for them to put the numbers in the correct order on the lock. I thought there would be only two possible orders they would consider, based on the way the clues were given (blue then green, or green then blue), but one group seemed to try every possible combination.
 - Understanding how the numbers fit into each equation. That is, understanding the denominator, or understanding how a negative number would work on the lock.
 
@@ -50,7 +51,7 @@ There were a few places where users struggled:
 Here's a prototype I made after the line graph. This one involves matching sequences of DNA. Theoretically, each 3-phosphate sequence (enough to make one protein! or... whatever that term is... I forget), would be associated with a letter. The users would have to sort through the 3-phosphate sequences in a big pile and match them to the loose DNA strand. Then the ordering of the letters would unlock a letter-combination lock.
 ![]({{ site.baseurl }}/assets/sxsw/room/dna3.jpg)
 
-The DNA strand is made of pipe cleaners. 
+The DNA strand is made of pipe cleaners.
 ![]({{ site.baseurl }}/assets/sxsw/room/dna2.jpg)
 
 Here's what a solved sequence might look like (not shown: the corresponding letters and the lock-opening step).
