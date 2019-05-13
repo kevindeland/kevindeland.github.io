@@ -22,7 +22,7 @@ Some kids would press down with great force, some kids would put their whole pal
 
 <br><br>
 ### Fun with Cameras
-We needed a way for students to log in to a unique profile so we could track their progress. One solution we tried was letting the students log in by taking a picture of themselves. However, field research indicated that this is not what happened. In one of our beta-testing sites in Mugeta, most of the kids had zero to little experience seeing pictures of themselves, let alone taking their own photos or videos. There was only one mirror in the whole village, in the local barber shop. So the opportunity to take a video of themselves was too enticing! This led to students taking many photos, instead of logging in with the same photo every time. So for our XPrize field testing, we decided to remove FaceLogin completely. This is still an ongoing problem that does not have a clear solution.
+We needed a way for students to log in to a unique profile so we could track their progress. One solution we tried was letting the students log in by taking a picture of themselves. However, field research indicated that this is not what happened. In one of our beta-testing sites, most of the kids had zero to little experience seeing pictures of themselves, let alone taking their own photos or videos. There was only one mirror in the whole village, in the local barber shop. So the opportunity to take a video of themselves was too enticing! This led to students taking many photos, instead of logging in with the same photo every time. So for our XPrize field testing, we decided to remove FaceLogin completely. This is still an ongoing problem that does not have a clear solution.
 
 ![]({{ site.baseurl }}/assets/rt-culture/facelogin_example.png)
 
