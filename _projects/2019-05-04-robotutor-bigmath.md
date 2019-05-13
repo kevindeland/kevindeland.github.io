@@ -19,7 +19,7 @@ When working on a problem like *building an app that can teach a child without a
 When designing EdTech for tablets, we can take advantage of what we already know about teaching kids using paper, and bring some of those lessons into the digital world. So how do we do this?
 
 <br>
-### Fuson and Briars
+### Built on Evidence
 [Fuson and Briars](https://www.jstor.org/stable/pdf/749373.pdf?casa_token=_H5NrKuSJiEAAAAA:BajqVgFES71JNfbP9JtOI6bXLLk5wL4qy3WBOGXK3t7dCDCodDCcuRshmxj2I-1xLM-7jIShQSxEWRhM4H2r7hLQg7WyidsBEVVqA6vjbNt1zMHBS2M) detail a way to use base-ten blocks to teach First- and Second-Grade Place-Value and Multi-digit Addition and Subtraction. I won't go into too many details of the study, but they tested over a hundred second-grade classrooms in the Pittsburgh Public School System. The students showed significant learning gains in Addition, Subtraction, and Place-Value tests.
 
 
