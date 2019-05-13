@@ -8,12 +8,12 @@ permalink: /rt-culture
 thumb: facelogin_example.png
 ---
 
-One part of participating in the Global Learning XPrize that's been most fascinating to me is the opportunity help introduce people to the seemingly magical world of technology. I was born into a world with seemingly ubiquitous technology and I am still consistently amazed by the wonders of computers and the Internet, so I can only imagine what it must be like for people who are not familiar with computer technology. Two members of our team, [Amy Ogan](https://www.amyogan.com/) and [Judith Uchidiuno](https://judithu.com/) have been performing field research, and some of their findings have been very interesting.
+One part of participating in the Global Learning XPrize that's been most fascinating to me is the opportunity help introduce people to the seemingly magical world of technology. I was born into a world with seemingly ubiquitous technology and I am still consistently amazed by the wonders of computers and the Internet, so I can only imagine what it must be like for people who are not familiar with computer technology. Two members of our team, [Amy Ogan](https://www.amyogan.com/) and [Judith Uchidiuno](https://judithu.com/) have been performing field research in rural Tanzania, and some of their findings have been very interesting.
 
 <br><br>
 
 ### Learning to Tap
-In their initial field research, Amy and Judith discovered that for many students, tapping was not an immediately intuitive interaction.
+In their initial field research, Amy and Judith discovered that for many of the students at our testing sites, tapping was not an immediately intuitive interaction.
 Some kids would press down with great force, some kids would put their whole palms down, and one girl even tried touching the screen with her lip! To prevent confusion around how the students should interact, we recorded videos of Filipo interacting with each of our learning activities. The first time a student plays a new activity, they will watch an instructional demo video.
 
 ![]({{ site.baseurl }}/assets/rt-culture/tap_demo.gif)
