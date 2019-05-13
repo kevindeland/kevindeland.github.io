@@ -1,10 +1,11 @@
 ---
 layout: project
 title: "RoboTutor: Cultural Lessons"
-date: 2019-05-04 12:00:00 -0400
+date: 2019-05-12 12:00:00 -0400
 description: "Cultural lessons learned from RoboTutor and XPrize."
 categories: xprize education robotutor culture
 permalink: /rt-culture
+thumb: facelogin_example.png
 ---
 
 One part of participating in the Global Learning XPrize that's been most fascinating to me is the opportunity help introduce people to the seemingly magical world of technology. I was born into a world with seemingly ubiquitous technology and I am still consistently amazed by the wonders of computers and the Internet, so I can only imagine what it must be like for people who are not familiar with computer technology. Two members of our team, [Amy Ogan](https://www.amyogan.com/) and [Judith Uchidiuno](https://judithu.com/) have been performing field research, and some of their findings have been very interesting.

@@ -1,10 +1,11 @@
 ---
 layout: project
 title: "RoboTutor: Literacy Curriculum Development"
-date: 2019-05-04 12:00:00 -0400
+date: 2019-05-11 12:00:00 -0400
 description: "How to develop an early literacy curriculum in a new language ."
 categories: xprize robotutor curriculum literacy
 permalink: /rt-curriculum
+thumb: curric_litmatrix.png
 ---
 
 One of the major challenges of localizing RoboTutor for a local language is re-configuring the literacy curriculum. Unlike math, which can be taught in pretty much the same order, regardless of language, the literacy curriculum must cater to the unique intricacies of each language. For example, Swahili and English are slightly different as languages. Swahili is a "phonemic" language, which means that if you see a letter, it will always make the same sound. Compare this to English, where each letter can be seemingly a hundred different sounds, depending where it is (for example, the 'h' in 'night', 'hat', and 'the' all serve different purposes). So here I will give a brief high-level overview of how one might put together a literacy curriculum for a new language.
