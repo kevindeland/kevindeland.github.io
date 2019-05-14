@@ -5,6 +5,7 @@ date: 2015-12-10 12:00:00 -0400
 description: "An interactive program built with CTAT."
 categories: binary boolean ITS
 thumb: binary_cards.png
+permalink: /binary
 ---
 
 This was my first ever full CTAT<sup>[1]</sup> tutor. I built it during CMU's LearnLab summer school.
