@@ -12,6 +12,6 @@ thumb: watson_bot_thumb.png
 3. Runs messages through [IBM Watson Tone Analyzer](https://www.ibm.com/watson/developercloud/tone-analyzer.html) to determine tone of message.
 4. Posts to slack with corresponding emoji
 
-This was a fun little side project I developed for the CIO Cloud team at IBM. I loved experimenting with the Watson services to see what they could do with text. The Tone Analyzer API looks for key words to determine the tone of the message. As you may see below, sometimes it was not entirely clear why API determined a message to have a partciular tone.  
+This was a fun little side project I developed for the CIO Cloud team at IBM. I loved experimenting with the Watson services to see what they could do with text. The Tone Analyzer API looks for key words to determine the tone of the message. As you may see below, sometimes it was not entirely clear why API determined a message to have a particular tone.  
 
 ![]({{ site.baseurl }}/assets/bluemix_emoji_1.png)

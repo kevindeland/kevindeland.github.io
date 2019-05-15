@@ -12,4 +12,4 @@ Here is a gif of me doing a move called a "four-petal anti-spin flower". It's ca
 ![ayy]({{ site.url }}/assets/antispin_2.gif)
 
 
-Funny story, I actually independently invented my own LED poi back in the summer of 2015, before I had even heard or seen of this type of thing. I used a pair of LED bike lights I had bought despite not having an actual bike, and some twine I found in a shed at a party. The full version of the story is the kind I can't really put on a blog, but ask me about it and maybe I'll tell you.
+Funny story, I actually independently invented my own LED poi back in the summer of 2015, before I had even heard or seen of this type of thing. I used a pair of LED bike lights I had bought (despite not having an actual bike), and some twine I found in a shed at a party.

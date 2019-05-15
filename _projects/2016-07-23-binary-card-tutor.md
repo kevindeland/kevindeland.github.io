@@ -26,10 +26,8 @@ Each CTAT tutor has a skill bar that can be used to track a student's skill impr
 <br><br>
 
 <h3>Improvements I would make</h3>
-Ugh... why does it say "until only 2 dots are visible". It should change with the problem and say "6".
-
-
-It should be explicit that a "1" means the card is face up and a "0" means the card is face down.
+- Bug: it still says "until only 2 dots are visible". It should change with the problem and say "6".
+- It should explicitly teach that a "1" means the card is face up and a "0" means the card is face down.
 
 
 
