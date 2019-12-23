@@ -10,9 +10,9 @@ permalink: /earthquakes
 
 ![]({{ site.baseurl }}/assets/earthquake_plot.png)
 
-Click [here]({{ site.baseurl }}/ExplorableEarthquakes ) to see the working demo.
-Based on the example [here](http://worrydream.com/ExplorableExplanations)
+Click [here]({{ site.baseurl }}/ExplorableEarthquakes ) for the working demo and [here](https://github.com/kevindeland/ExplorableEarthquakes) for the code.
 
-I had a lot of fun building this for the Watson Cognitive Tutor, a project done by The IBM Watson Education team who worked with a classroom to help prepare 9th graders for their New York Regents exams. I used the [Tangle.js](http://worrydream.com/Tangle/) library to build the reactive sliders, and I used Javascript canvas to illustrate the traveling waves and the Cartesian plot. I also used a creative ananlogy to describe the life of an anthropomorphic earthquake sensor, which may help more students with a more kinesthetic learning style.
+I made this in the winter of 2015 for a project at IBM Research as part of the Watson Cognitive Tutor, where we were challenged to teach concepts of earthquakes to 9th graders in New York in prep for their Regents exams. The IBM team introduced me to Bret Victor and the term “[Explorable Explanations](http://worrydream.com/ExplorableExplanations)”, and it reinvigorated my excitement for interactive education. In this project I was particularly proud of how I learned to use the [Tangle.js library](http://worrydream.com/Tangle/) and integrated it with the HTML canvas. Also, it was challenging to convert a [static teaching lesson](https://www.maplesoft.com/support/help/Maple/view.aspx?path=MathApps/EpicenterOfEarthquakes) into a dynamic and interactive one. But my favorite part was the idea I had to explain an earthquake from the perspective of an anthropmorphized earthquake sensor using animated gifs. Finally, my hobby of browsing memes had paid off! 
 
-This was my first time making an interactive, reactive educational interface, so there are a few improvements I know I could make.
+I made this four years ago and it was my first time making an interactive educational project, so there are many changes I would make. The METALS program taught me many skills to improve usability and student learning, so I would like to revisit this project by performing some user testing and revisiting the literature on learning science.
+
