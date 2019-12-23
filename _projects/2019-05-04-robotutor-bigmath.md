@@ -55,6 +55,15 @@ Note how we have state changes in green and audio in pink.`
 
 `The high-fi version, including animation, writing boxes, and RoboFinger to indicate what to do.`
 
+<br><br>
+This is a good example of the end-to-end pipeline it takes to implement an interactive learning activity. This pipeline includes:
+- Curriculum: noticing an area where our curriculum did not meet the EGMA (Early Grade Math Assessment) standards.
+- Research: finding a paper (Fuson & Briars) where researchers had successfully designed an activity to teach to this standard.
+- Design: creating prototypes of increasing fidelity, while seeking feedback from an expert.
+- Implementation: programming the design into the existing product architecture.
+- Testing: testing the developed product to fix bugs and improve user experience.
+
+
 
 <br><br>
 ### Future Improvements
