@@ -26,6 +26,9 @@ collections:
   projects:
     output: true
     permalink: /:slug
+  mission:
+    output: true
+    permalink: /:slug
 
 permalink: /:title
 
