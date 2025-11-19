@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Using Art to Teach Computation and Geometry in Tanzania"
-date: 2016-07-31 12:00:00 -0400
+date: 2019-10-30 12:00:00 -0400
 description: "Art, Computation, and Geometry in Tanzania"
 categories: tanzania art geometry
 permalink: /art-tz/
